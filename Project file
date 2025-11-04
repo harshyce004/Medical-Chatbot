@@ -1,0 +1,8 @@
+medbot/
+├─ src/
+│  └─ App.jsx
+├─ package.json
+├─ package-lock.json
+├─ index.html
+├─ .gitignore
+└─ README.md
