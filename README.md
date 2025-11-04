@@ -1,8 +1,8 @@
-# 🏥 MedBot
+# MedBot
 
 A simple React-based health chatbot that gives basic advice for common symptoms.
 
-## 🚀 Run locally
+## Run locally
 
 1. Clone this repo:
    ```bash
