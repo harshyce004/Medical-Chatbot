@@ -24,3 +24,12 @@ uvicorn main:app --reload
 # Author
 Chintalapudi Harsha Sri
 GitHub: [@harshyce004](https://github.com/harshyce004)  
+
+---
+
+## 🪪 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
