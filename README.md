@@ -1,2 +1,2 @@
 # Medical-Chatbot
-Symptom analysis Chatbot
+Simple python chatbot
